@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "app1": "1.0.0",
-    "app2": "1.0.0"
+    "app1": "^1.0.0",
+    "app2": "^1.0.0"
   }
 }
